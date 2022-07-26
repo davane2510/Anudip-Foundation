@@ -1,0 +1,16 @@
+1) A. The program will display the output as: 3.
+ 2) D. TestQuestion(int x , int y).
+3)D. The program will throw a runtime exception.
+4)A. Initialization blocks run every time a class is loaded.
+5)B. Every java object has a public method length().
+6)B. The program will display: Hi
+7)B. The program will display: doMethod() a = 9 main() a = 9 
+8)C. The program will display the output as: 40 
+9)C. The program will generate the compilation error
+10)A. The program will generate a compilation error at the line marked as 1.
+11)C. It will generate a compilation error. 
+12)A. true 
+13)C. The program will display the output as: 10 20 20
+14)C. The program will compile and execute successfully, but no output will be shown.
+15)B. There is a default constructor, which takes arguments of the same type as the data members in order.
+16)B. It will produce the output as: 4
