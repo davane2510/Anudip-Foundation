@@ -1,0 +1,15 @@
+1) C. The program will display the output as: True
+2) A. The program will display the output as: March 
+3) D. It will throw a runtime exception.
+4) B. three 
+5) D. Program will not compile successfully.
+6) pink green
+7) A. It will produce the output as: 105
+8) A. It will produce the output as: 345 100 100 
+9) D. It will compile and execute but does not display anything as output
+10) D. It will compile and execute successfully, but does not display anything as an output.
+11) D. Program will not compile successfully.
+12) D. Program will not compile successfully
+13) D. Program will not compile successfully
+14)  D. Program will not compile successfully.
+15) A. The program will display the output as: 6
